@@ -6,7 +6,7 @@ A dynamic and adaptable professional with a strong foundation in project managem
 ## Certifications with Submission
 
 ### Dicoding
-#### - Belajar Jaringan Komputer untuk Pemula
+#### - [Belajar Jaringan Komputer untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Jaringan%20Komputer%20untuk%20Pemula)
 
 ## Let's Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdulsyukurkamaruddin/)
+[LinkedIn](https://www.linkedin.com/in/abdulsyukurkamaruddin/)
