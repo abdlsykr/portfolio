@@ -1,4 +1,4 @@
-# Proyek Akhir: Proyek Membangun Web Server
+# Submission: Proyek Membangun Web Server
 
 ## Kriteria Penilaian  
 
