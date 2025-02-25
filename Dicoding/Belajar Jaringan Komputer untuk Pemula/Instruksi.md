@@ -14,5 +14,3 @@ Setelah kriteria 1 berhasil Anda kerjakan, lanjutlah menyelesaikan kriteria 2. D
 
 ### **Kriteria 3: Menerapkan Limit Access di NGINX**  
 Usai menyelesaikan kriteria 2, lanjutkan pengerjaan proyek akhir Anda dengan mengerjakan kriteria 3. Kriteria ini meminta Anda untuk mengonfigurasikan NGINX (alias reverse proxy server) untuk menerapkan limit access atau rate limit guna meningkatkan keamanan pada web server. 
-
-Untuk kriteria ini, Anda bisa menggunakan konfigurasi yang serupa dengan latihan di modul sebelumnya.
