@@ -12,4 +12,4 @@ A dynamic and adaptable professional with a strong foundation in project managem
 #### - [Belajar Membuat Front-End Web untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
 
 ## Let's Connect!  
-[LinkedIn](https://www.linkedin.com/in/abdulsyukurkamaruddin/)
+### [Linkedin](https://www.linkedin.com/in/abdulsyukurkamaruddin/)
