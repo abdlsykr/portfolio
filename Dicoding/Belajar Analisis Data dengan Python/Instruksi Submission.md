@@ -1,4 +1,4 @@
-# Kriteria Proyek Akhir Analisis Data
+# Submission : Belajar Analisis Data dengan Python
 
 Terdapat 4 kriteria utama yang harus Anda penuhi dalam mengerjakan proyek akhir ini.
 
