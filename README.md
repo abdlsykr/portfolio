@@ -12,7 +12,8 @@ A dynamic and adaptable professional with a strong foundation in project managem
 #### - [Belajar Membuat Front-End Web untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
 
 ## Community / Course / Event Certificate
-#### [Indonesia NEXT Season 5 by Telkomsel](https://github.com/abdlsykr/portfolio/tree/main/Indonesia%20NEXT%20Season%205%20by%20Telkomsel) 
+#### - [Indonesia NEXT Season 5 by Telkomsel](https://github.com/abdlsykr/portfolio/tree/main/Indonesia%20NEXT%20Season%205%20by%20Telkomsel) 
+#### - [Duta PLN Camp by PLN and Yayasan Karya Salemba Empat](https://github.com/abdlsykr/portfolio/tree/main/Duta%20PLN%20Camp%20by%20PLN%20and%20Yayasan%20Karya%20Salemba%20Empat) 
 
 ## Let's Connect!  
 ### [Linkedin](https://www.linkedin.com/in/abdulsyukurkamaruddin/)
