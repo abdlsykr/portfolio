@@ -11,5 +11,8 @@ A dynamic and adaptable professional with a strong foundation in project managem
 #### - [Belajar Jaringan Komputer untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Jaringan%20Komputer%20untuk%20Pemula)
 #### - [Belajar Membuat Front-End Web untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
 
+## Community / Course / Event Certificate
+#### [Indonesia NEXT Season 5 by Telkomsel](https://github.com/abdlsykr/portfolio/tree/main/Indonesia%20NEXT%20Season%205%20by%20Telkomsel) 
+
 ## Let's Connect!  
 ### [Linkedin](https://www.linkedin.com/in/abdulsyukurkamaruddin/)
