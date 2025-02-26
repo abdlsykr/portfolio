@@ -15,7 +15,7 @@ A dynamic and adaptable professional with a strong foundation in project managem
 #### - [Indonesia NEXT Season 5 by Telkomsel](https://github.com/abdlsykr/portfolio/tree/main/Indonesia%20NEXT%20Season%205%20by%20Telkomsel) 
 #### - [Duta PLN Camp by PLN and Yayasan Karya Salemba Empat](https://github.com/abdlsykr/portfolio/tree/main/Duta%20PLN%20Camp%20by%20PLN%20and%20Yayasan%20Karya%20Salemba%20Empat) 
 #### - [Pelatihan Nasional by Forum Indonesia Muda](https://github.com/abdlsykr/portfolio/blob/main/Pelatihan%20Nasional%20by%20Forum%20Indonesia%20Muda/Sertifikat%20Pelatnas%20-%20ABDUL%20SYUKUR%20KAMARUDDIN.pdf) 
-#### - [Google Developer Students Club Institut Teknologi Bandung](https://github.com/abdlsykr/portfolio/tree/main/Google%20Developer%20Student%20Clubs%20Institut%20Teknologi%20Bandung) 
+#### - [Google Developer Students Club Institut Teknologi Bandung](https://github.com/abdlsykr/portfolio/blob/main/Google%20Developer%20Student%20Clubs%20Institut%20Teknologi%20Bandung/GDSC%20ITB%20Member%20Certificate.pdf) 
 
 ## Let's Connect!  
 ### [Linkedin](https://www.linkedin.com/in/abdulsyukurkamaruddin/)
