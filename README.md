@@ -1,7 +1,7 @@
 # Professional Portfolio
 
 ## About Me  
-A dynamic and adaptable professional with a strong foundation in project management, developed since high school, and a diverse skill set across technology, data, and IT. I seamlessly connect technology and business to drive innovation and efficiency. Passionate about digital transformation, I am committed to continuous learning and growth. While I have broad experience across multiple domains, I actively seek opportunities to deepen my expertise and make a meaningful impact in an ever-evolving digital landscape..  
+Dynamic and adaptable professional with a strong foundation in project management and a diverse skill set across technology, data, and IT. Passionate about digital transformation, I seamlessly integrate technology and business to drive innovation and efficiency. Committed to continuous learning and making a meaningful impact in an evolving digital landscape. Open to opportunities outside my current domicile and willing to travel. 
 
 ## Certificate with Project Submission
 
