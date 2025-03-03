@@ -5,7 +5,15 @@ import seaborn as sns
 
 # Load Data (Pastikan data yang digunakan sudah disiapkan sebelumnya)
 @st.cache_data
-def load_data():
+def load_data_orders():
+    return orders_df
+
+@st.cache_data
+def load_data_orderitem():
+    return orders_df
+
+@st.cache_data
+def load_data_customer():
     return orders_df
 
 df = load_data()
