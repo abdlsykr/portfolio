@@ -1,22 +1,22 @@
-# E-commerce Public Dashboard
+# E-Commerce Public Dashboard ✨
 
 ## Setup Environment - Anaconda
-```sh
-conda create --name ecommerce-ds python=3.9
-conda activate ecommerce-ds
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
 pip install -r requirements.txt
 ```
 
 ## Setup Environment - Shell/Terminal
-```sh
-mkdir ecommerce_dashboard
-cd ecommerce_dashboard
+```
+mkdir proyek_analisis_data
+cd proyek_analisis_data
 pipenv install
 pipenv shell
 pip install -r requirements.txt
 ```
 
-## Menjalankan Streamlit App
-```sh
+## Run steamlit app
+```
 streamlit run dashboard.py
 ```
