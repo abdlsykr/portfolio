@@ -6,9 +6,9 @@ import seaborn as sns
 # Load Data dari URL
 @st.cache_data
 def load_data():
-    url_orders = "https://raw.githubusercontent.com/abdlsykr/portfolio/refs/heads/main/Dicoding/Belajar_Analisis_Data_dengan_Python/Ecommerce_Public_Dataset/data/orders_dataset.csv"
-    url_order_items = "https://raw.githubusercontent.com/abdlsykr/portfolio/refs/heads/main/Dicoding/Belajar_Analisis_Data_dengan_Python/Ecommerce_Public_Dataset/data/order_items_dataset.csv"
-    url_customers = "https://raw.githubusercontent.com/abdlsykr/portfolio/refs/heads/main/Dicoding/Belajar_Analisis_Data_dengan_Python/Ecommerce_Public_Dataset/data/customers_dataset.csv"
+    url_orders = "https://raw.githubusercontent.com/abdlsykr/portfolio/main/Dicoding/Belajar_Analisis_Data_dengan_Python/Ecommerce_Public_Dataset/data/orders_dataset.csv"
+    url_order_items = "https://raw.githubusercontent.com/abdlsykr/portfolio/main/Dicoding/Belajar_Analisis_Data_dengan_Python/Ecommerce_Public_Dataset/data/order_items_dataset.csv"
+    url_customers = "https://raw.githubusercontent.com/abdlsykr/portfolio/main/Dicoding/Belajar_Analisis_Data_dengan_Python/Ecommerce_Public_Dataset/data/customers_dataset.csv"
     
     orders_df = pd.read_csv(url_orders, parse_dates=['order_purchase_timestamp'])
     order_items_df = pd.read_csv(url_order_items)
