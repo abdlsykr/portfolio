@@ -7,6 +7,7 @@ Dynamic and adaptable professional with a strong foundation in project managemen
 
 ### Dicoding
 
+#### - [Belajar Analisis Data dengan Python](https://github.com/abdlsykr/portfolio/tree/main/Dicoding/Belajar_Analisis_Data_dengan_Python/Ecommerce_Public_Dataset)
 #### - [Belajar Dasar Pemrograman Web](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Dasar%20Pemrograman%20Web)
 #### - [Belajar Jaringan Komputer untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Jaringan%20Komputer%20untuk%20Pemula)
 #### - [Belajar Membuat Front-End Web untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
