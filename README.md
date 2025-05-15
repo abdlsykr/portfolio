@@ -12,6 +12,7 @@ Dynamic and adaptable professional with a strong foundation in project managemen
 #### - [Belajar Jaringan Komputer untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Jaringan%20Komputer%20untuk%20Pemula)
 #### - [Belajar Membuat Front-End Web untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
 #### - [Belajar Machine Learning untuk Pemula](https://github.com/abdlsykr/portfolio/tree/main/Dicoding/Belajar_Machine_Learning_Untuk_Pemula)
+#### - [Belajar Pengembangan Machine Learning](https://github.com/abdlsykr/portfolio/tree/main/Dicoding/Belajar_Pengembangan_Machine_Learning)
 
 ## Community / Course / Event Certificate
 #### - [Indonesia NEXT Season 5 by Telkomsel](https://github.com/abdlsykr/portfolio/tree/main/Indonesia%20NEXT%20Season%205%20by%20Telkomsel) 
