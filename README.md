@@ -1,7 +1,5 @@
-# Professional Portfolio
-
 ## About Me  
-Dynamic and adaptable professional with a solid background in project management and a broad skill set across technology and data. I am passionate about driving digital transformation by effectively combining technology and business to foster innovation and efficiency. I am committed to continuous learning and delivering value in a tech-driven world. Open to relocation and willing to travel as needed.
+I am an adaptable and versatile professional with experience in project management, data analysis, operational administration, and digital media communication. I possess strong structured thinking, the ability to work both independently and collaboratively, and a quick learning attitude to face new challenges. I am accustomed to handling tasks efficiently and accurately, combining technical and creative approaches to support company goals.
 
 ## Certificate with Project Submission
 
@@ -13,7 +11,7 @@ Dynamic and adaptable professional with a solid background in project management
 #### - [Belajar Membuat Front-End Web untuk Pemula](https://github.com/abdlsykr/portofolio/tree/main/Dicoding/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
 #### - [Belajar Machine Learning untuk Pemula](https://github.com/abdlsykr/portfolio/tree/main/Dicoding/Belajar_Machine_Learning_Untuk_Pemula)
 #### - [Belajar Pengembangan Machine Learning](https://github.com/abdlsykr/portfolio/tree/main/Dicoding/Belajar_Pengembangan_Machine_Learning)
-#### - [Machine Learning Terapan](https://github.com/abdlsykr/portfolio/tree/main/Dicoding/Machine_Learning_Terapan)
+#### - [Machine Learning Terapan](https://github.com/abdlsykr/portfolio/tree/main/Dicoding/Machine_Learning_Terapan) with Report in it
 
 ## Community / Course / Event Certificate
 #### - [Indonesia NEXT Season 5 by Telkomsel](https://github.com/abdlsykr/portfolio/tree/main/Indonesia%20NEXT%20Season%205%20by%20Telkomsel) 
